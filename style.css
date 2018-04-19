@@ -1,0 +1,39 @@
+body{
+	max-width: 1000px;
+	margin:auto;
+	font-family: 'IBM Plex Serif' , sans-serif;
+}
+h2{
+	color: red;
+}
+#landing {
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom: 200px; 
+
+}
+
+section {
+	margin-top: 50px;
+	padding-left: 20px;
+}
+
+#blurb >a {
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+p{
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+.lead{
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+img{
+	border-radius: 50px;
+}
